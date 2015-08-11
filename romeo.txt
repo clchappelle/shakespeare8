@@ -3,7 +3,7 @@ Rome and Juliet
 In fair Verona wehre we lay our scene...
 
 
-SOME DUDE: I bite my thumb at you, sire.
+SOME DUDE: I bite my thumb at you, sire. *bites thumb*
 
 JULIET: Ay, me!
 
@@ -13,4 +13,4 @@ JULIET: Why for art thou, Romeo?
 
 ROME: Oh look, poison.
 
-THE END
+THE END!
